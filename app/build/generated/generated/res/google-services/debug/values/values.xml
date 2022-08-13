@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">90620150531-9hkf2mlfq470q8t9tj04sdb51dlog8pt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">90620150531</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4PFwl_sPPtVEOGMZcjqMmq2_a3DcL2EI</string>
+    <string name="google_app_id" translatable="false">1:90620150531:android:44188fa59948ab833ddf36</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4PFwl_sPPtVEOGMZcjqMmq2_a3DcL2EI</string>
+    <string name="google_storage_bucket" translatable="false">icooking-db.appspot.com</string>
+    <string name="project_id" translatable="false">icooking-db</string>
+</resources>
